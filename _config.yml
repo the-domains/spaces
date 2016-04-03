@@ -1,31 +1,19 @@
-name: spaces
-favicon: null
-layout_spectrum: 0.91813
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#7a7150'
-    - '#ada275'
-    - '#0c0e0b'
-    - '#6dd9fd'
+    - '#FFFFFF'
+    - '#7A7150'
+    - '#ADA275'
+    - '#0C0E0B'
+    - '#6DD9FD'
   brandStrength: 0.75
   lightness: 0
-  saturation: 0.153353
   rhythmicContrast: 0.75
+  saturation: 0.153353
+cta: {}
+layout_spectrum: 0.91813
+name: spaces
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.514639
